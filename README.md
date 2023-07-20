@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estifki" alt="estifki" /></a> </p>
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Nest**
 
 - 👨‍💻 All of my projects are available at [https://estifki.netlify.app](https://estifki.netlify.app)
 
